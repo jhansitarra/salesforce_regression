@@ -1,0 +1,208 @@
+2021-02-10 00:19:08 INFO  CommonUtilities 50 - Current dir using System:C:\Users\jhans\src\salesforce/src/main/java/properties/testdata.properties
+2021-02-10 00:19:08 INFO  CommonUtilities 117 - Directory is deleted : C:\Users\jhans\src\salesforce\target\surefire-reports\screenshots
+2021-02-10 00:19:08 INFO  BrowserUtilities 35 - Launching Browser
+2021-02-10 00:19:11 INFO  home 34 - Triggerred all depencies
+2021-02-10 00:19:11 INFO  home 27 - Lets login before running every test
+2021-02-10 00:19:13 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (eacd81c65becb0b2d343a9162b154306)] -> id: username]
+2021-02-10 00:22:06 INFO  CommonUtilities 50 - Current dir using System:C:\Users\jhans\src\salesforce/src/main/java/properties/testdata.properties
+2021-02-10 00:22:06 INFO  CommonUtilities 117 - Directory is deleted : C:\Users\jhans\src\salesforce\target\surefire-reports\screenshots
+2021-02-10 00:22:06 INFO  BrowserUtilities 35 - Launching Browser
+2021-02-10 00:22:09 INFO  home 34 - Triggerred all depencies
+2021-02-10 00:22:09 INFO  home 27 - Lets login before running every test
+2021-02-10 00:22:10 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (6c5140de578ec2552236e58bec9d2558)] -> id: username]
+2021-02-10 00:23:53 INFO  CommonUtilities 50 - Current dir using System:C:\Users\jhans\src\salesforce/src/main/java/properties/testdata.properties
+2021-02-10 00:23:53 INFO  CommonUtilities 117 - Directory is deleted : C:\Users\jhans\src\salesforce\target\surefire-reports\screenshots
+2021-02-10 00:23:53 INFO  BrowserUtilities 35 - Launching Browser
+2021-02-10 00:23:55 INFO  home 34 - Triggerred all depencies
+2021-02-10 00:23:55 INFO  home 27 - Lets login before running every test
+2021-02-10 00:23:59 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (a96a9e26153174444f717bc3b1217f6e)] -> id: username]
+2021-02-10 00:26:14 INFO  CommonUtilities 50 - Current dir using System:C:\Users\jhans\src\salesforce/src/main/java/properties/testdata.properties
+2021-02-10 00:26:14 INFO  CommonUtilities 117 - Directory is deleted : C:\Users\jhans\src\salesforce\target\surefire-reports\screenshots
+2021-02-10 00:26:14 INFO  BrowserUtilities 35 - Launching Browser
+2021-02-10 00:26:17 INFO  home 34 - Triggerred all depencies
+2021-02-10 00:26:17 INFO  home 27 - Lets login before running every test
+2021-02-10 00:26:18 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (fcff0d47c9059f9ef14506af99f5cd28)] -> id: username]
+2021-02-10 00:28:10 INFO  CommonUtilities 50 - Current dir using System:C:\Users\jhans\src\salesforce/src/main/java/properties/testdata.properties
+2021-02-10 00:28:10 INFO  CommonUtilities 117 - Directory is deleted : C:\Users\jhans\src\salesforce\target\surefire-reports\screenshots
+2021-02-10 00:28:10 INFO  BrowserUtilities 35 - Launching Browser
+2021-02-10 00:28:12 INFO  home 34 - Triggerred all depencies
+2021-02-10 00:28:12 INFO  home 27 - Lets login before running every test
+2021-02-10 00:28:14 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (84a65a62b387a4de2b0d330d8e344922)] -> id: username]
+2021-02-10 00:29:29 INFO  CommonUtilities 50 - Current dir using System:C:\Users\jhans\src\salesforce/src/main/java/properties/testdata.properties
+2021-02-10 00:29:29 INFO  CommonUtilities 117 - Directory is deleted : C:\Users\jhans\src\salesforce\target\surefire-reports\screenshots
+2021-02-10 00:29:29 INFO  BrowserUtilities 35 - Launching Browser
+2021-02-10 00:29:32 INFO  home 34 - Triggerred all depencies
+2021-02-10 00:29:32 INFO  home 27 - Lets login before running every test
+2021-02-10 00:29:33 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (54476b4a4af3b9904ad26a8dc47a35b7)] -> id: username]
+2021-02-10 00:30:01 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54476b4a4af3b9904ad26a8dc47a35b7)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 00:32:16 INFO  CommonUtilities 50 - Current dir using System:C:\Users\jhans\src\salesforce/src/main/java/properties/testdata.properties
+2021-02-10 00:32:16 INFO  CommonUtilities 117 - Directory is deleted : C:\Users\jhans\src\salesforce\target\surefire-reports\screenshots
+2021-02-10 00:32:16 INFO  BrowserUtilities 35 - Launching Browser
+2021-02-10 00:32:19 INFO  home 34 - Triggerred all depencies
+2021-02-10 00:32:19 INFO  home 27 - Lets login before running every test
+2021-02-10 00:32:20 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (ebdd6c1c85bb52a0b48f58b90a78114d)] -> id: username]
+2021-02-10 00:52:04 INFO  CommonUtilities 50 - Current dir using System:C:\Users\jhans\src\salesforce/src/main/java/properties/testdata.properties
+2021-02-10 00:52:04 INFO  CommonUtilities 117 - Directory is deleted : C:\Users\jhans\src\salesforce\target\surefire-reports\screenshots
+2021-02-10 00:52:04 INFO  BrowserUtilities 35 - Launching Browser
+2021-02-10 00:52:06 INFO  home 34 - Triggerred all depencies
+2021-02-10 00:52:06 INFO  home 27 - Lets login before running every test
+2021-02-10 00:52:08 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (59269e86885ebb66f44801d14fcc1cca)] -> id: username]
+2021-02-10 00:53:27 INFO  CommonUtilities 50 - Current dir using System:C:\Users\jhans\src\salesforce/src/main/java/properties/testdata.properties
+2021-02-10 00:53:27 INFO  CommonUtilities 117 - Directory is deleted : C:\Users\jhans\src\salesforce\target\surefire-reports\screenshots
+2021-02-10 00:53:27 INFO  BrowserUtilities 35 - Launching Browser
+2021-02-10 00:53:30 INFO  home 34 - Triggerred all depencies
+2021-02-10 00:53:30 INFO  home 27 - Lets login before running every test
+2021-02-10 00:53:31 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (b00e35265ca363544fccc69c12bda771)] -> id: username]
+2021-02-10 00:54:23 INFO  CommonUtilities 50 - Current dir using System:C:\Users\jhans\src\salesforce/src/main/java/properties/testdata.properties
+2021-02-10 00:54:23 INFO  CommonUtilities 117 - Directory is deleted : C:\Users\jhans\src\salesforce\target\surefire-reports\screenshots
+2021-02-10 00:54:23 INFO  BrowserUtilities 35 - Launching Browser
+2021-02-10 00:54:25 INFO  home 34 - Triggerred all depencies
+2021-02-10 00:54:25 INFO  home 27 - Lets login before running every test
+2021-02-10 00:54:27 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (afc6d2fe85222c67254031d976384004)] -> id: username]
+2021-02-10 00:56:27 INFO  CommonUtilities 50 - Current dir using System:C:\Users\jhans\src\salesforce/src/main/java/properties/testdata.properties
+2021-02-10 00:56:27 INFO  CommonUtilities 117 - Directory is deleted : C:\Users\jhans\src\salesforce\target\surefire-reports\screenshots
+2021-02-10 00:56:27 INFO  BrowserUtilities 35 - Launching Browser
+2021-02-10 00:56:30 INFO  home 34 - Triggerred all depencies
+2021-02-10 00:56:30 INFO  home 27 - Lets login before running every test
+2021-02-10 00:56:31 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (72a99994d7f0a487c9a4fb573d917edc)] -> id: username]
+2021-02-10 22:55:44 INFO  CommonUtilities 50 - Current dir using System:C:\Users\jhans\src\salesforce/src/main/java/properties/testdata.properties
+2021-02-10 22:55:44 INFO  CommonUtilities 117 - Directory is deleted : C:\Users\jhans\src\salesforce\target\surefire-reports\screenshots
+2021-02-10 22:55:44 INFO  BrowserUtilities 35 - Launching Browser
+2021-02-10 22:55:48 INFO  home 34 - Triggerred all depencies
+2021-02-10 22:55:48 INFO  home 27 - Lets login before running every test
+2021-02-10 22:55:50 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> id: username]
+2021-02-10 22:56:18 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:19 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:21 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:21 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:22 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:22 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:22 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:22 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:22 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:22 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:22 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:22 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:23 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:23 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:23 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:23 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:23 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:23 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:23 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:23 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:23 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:24 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:24 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:24 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:24 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:24 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:24 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:24 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:24 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:25 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:25 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:25 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:25 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:25 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:25 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:25 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:26 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:26 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:26 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:26 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:26 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:26 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:26 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:26 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:27 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:27 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:27 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:27 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:27 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:27 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:27 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:27 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:27 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:28 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:28 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:28 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:28 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:28 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:28 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:28 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:28 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:29 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:29 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:29 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:29 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:29 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:29 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:29 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:29 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:30 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:30 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:30 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:30 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:30 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:30 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:30 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:30 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:30 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:31 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:31 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:31 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:31 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:31 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:31 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:31 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:31 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:32 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:32 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:32 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:32 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:56:32 INFO  BrowserUtilities 99 - ******Element is Still Displaying : [[ChromeDriver: chrome on WINDOWS (54d4cdeb9d13303b3f2bcadc2b38e80c)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:57:29 INFO  CommonUtilities 50 - Current dir using System:C:\Users\jhans\src\salesforce/src/main/java/properties/testdata.properties
+2021-02-10 22:57:29 INFO  CommonUtilities 117 - Directory is deleted : C:\Users\jhans\src\salesforce\target\surefire-reports\screenshots
+2021-02-10 22:57:29 INFO  BrowserUtilities 35 - Launching Browser
+2021-02-10 22:57:31 INFO  home 34 - Triggerred all depencies
+2021-02-10 22:57:31 INFO  home 27 - Lets login before running every test
+2021-02-10 22:57:32 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (e69c1d1da139d1c9b13952bc50fd6602)] -> id: username]
+2021-02-10 22:57:57 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (e69c1d1da139d1c9b13952bc50fd6602)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:58:08 INFO  BrowserUtilities 112 - Displayed [[ChromeDriver: chrome on WINDOWS (e69c1d1da139d1c9b13952bc50fd6602)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 22:59:47 INFO  CommonUtilities 50 - Current dir using System:C:\Users\jhans\src\salesforce/src/main/java/properties/testdata.properties
+2021-02-10 22:59:47 INFO  CommonUtilities 117 - Directory is deleted : C:\Users\jhans\src\salesforce\target\surefire-reports\screenshots
+2021-02-10 22:59:47 INFO  BrowserUtilities 35 - Launching Browser
+2021-02-10 22:59:49 INFO  home 34 - Triggerred all depencies
+2021-02-10 22:59:49 INFO  home 27 - Lets login before running every test
+2021-02-10 22:59:51 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (04eff6332042deac85c766fb01845205)] -> id: username]
+2021-02-10 23:00:12 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (04eff6332042deac85c766fb01845205)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 23:00:12 INFO  BrowserUtilities 112 - Displayed [[ChromeDriver: chrome on WINDOWS (04eff6332042deac85c766fb01845205)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 23:08:47 INFO  CommonUtilities 50 - Current dir using System:C:\Users\jhans\src\salesforce/src/main/java/properties/testdata.properties
+2021-02-10 23:08:47 INFO  CommonUtilities 117 - Directory is deleted : C:\Users\jhans\src\salesforce\target\surefire-reports\screenshots
+2021-02-10 23:08:47 INFO  BrowserUtilities 35 - Launching Browser
+2021-02-10 23:08:50 INFO  home 34 - Triggerred all depencies
+2021-02-10 23:08:50 INFO  home 27 - Lets login before running every test
+2021-02-10 23:08:51 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (a118c609538008b51103d14532101dcc)] -> id: username]
+2021-02-10 23:09:14 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (a118c609538008b51103d14532101dcc)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 23:09:16 INFO  BrowserUtilities 112 - Displayed [[ChromeDriver: chrome on WINDOWS (a118c609538008b51103d14532101dcc)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 23:10:54 INFO  CommonUtilities 50 - Current dir using System:C:\Users\jhans\src\salesforce/src/main/java/properties/testdata.properties
+2021-02-10 23:10:54 INFO  CommonUtilities 117 - Directory is deleted : C:\Users\jhans\src\salesforce\target\surefire-reports\screenshots
+2021-02-10 23:10:54 INFO  BrowserUtilities 35 - Launching Browser
+2021-02-10 23:10:56 INFO  home 34 - Triggerred all depencies
+2021-02-10 23:10:56 INFO  home 27 - Lets login before running every test
+2021-02-10 23:10:58 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (d3efdd42853672afa12348d3bfd8c2c7)] -> id: username]
+2021-02-10 23:11:19 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (d3efdd42853672afa12348d3bfd8c2c7)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 23:11:36 INFO  BrowserUtilities 112 - Displayed [[ChromeDriver: chrome on WINDOWS (d3efdd42853672afa12348d3bfd8c2c7)] -> xpath: //a[contains(text(),'Home')]]
+2021-02-10 23:25:51 INFO  CommonUtilities 50 - Current dir using System:C:\Users\jhans\src\salesforce/src/main/java/properties/testdata.properties
+2021-02-10 23:25:51 INFO  CommonUtilities 117 - Directory is deleted : C:\Users\jhans\src\salesforce\target\surefire-reports\screenshots
+2021-02-10 23:25:51 INFO  BrowserUtilities 35 - Launching Browser
+2021-02-10 23:25:53 INFO  home 36 - Triggerred all depencies
+2021-02-10 23:25:53 INFO  home 27 - Lets login before running every test
+2021-02-10 23:25:55 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (8205d7461a23848885d70d00098e0e29)] -> id: username]
+2021-02-10 23:26:25 INFO  CommonUtilities 50 - Current dir using System:C:\Users\jhans\src\salesforce/src/main/java/properties/testdata.properties
+2021-02-10 23:26:25 INFO  CommonUtilities 117 - Directory is deleted : C:\Users\jhans\src\salesforce\target\surefire-reports\screenshots
+2021-02-10 23:26:25 INFO  BrowserUtilities 35 - Launching Browser
+2021-02-10 23:26:27 INFO  home 36 - Triggerred all depencies
+2021-02-10 23:26:27 INFO  home 27 - Lets login before running every test
+2021-02-10 23:26:29 INFO  BrowserUtilities 75 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (1a75996aaaa9c3e41c673e26b29eb9ab)] -> id: username]
